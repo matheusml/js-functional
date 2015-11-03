@@ -1,3 +1,6 @@
+## Deprecated
+New repository: [https://github.com/js-functional/js-funcional](https://github.com/js-functional/js-funcional)
+
 ## JavaScript Functional Programming Cookbook (ES6)
 A Cookbook for writing FP in JavaScript using ES6
 
